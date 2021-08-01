@@ -4,7 +4,7 @@ Aquellos que no saben cómo usar VCRT. Puede generar automáticamente un virus.
 ---
 
 # Próxima actualización versión 1.4
-##### Autor: ZechBron
+#### Autor: ZechBron
 
 ## Funciones
 * Se convertirá en python 3
