@@ -1,5 +1,5 @@
 # zVirus Gen [![Current Version ](https://img.shields.io/badge/Current%20Version-1.1-blue?style=flat-square)](https://github.com/ZechBron/zVirus-Gen)
-Those who don't know how to use VCRT. You can automatically generate a virus.
+Aquellos que no saben cómo usar VCRT. Puede generar automáticamente un virus.
 
 ---
 
