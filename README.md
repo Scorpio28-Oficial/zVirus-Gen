@@ -3,8 +3,8 @@ Aquellos que no saben cómo usar VCRT. Puede generar automáticamente un virus.
 
 ---
 
-# Next Update Version 1.4
-## Features
+# Próxima actualización versión 1.4
+## Funciones
 Will be converted into python 3
 + Choose Api Share
 
