@@ -40,7 +40,7 @@ __Otro__
 > apt install git -y
 
 
-## Installation:
+## Instalación:
 > git clone https://github.com/ZechBron/zVirus-Gen
 
 > cd zVirus-Gen
@@ -50,20 +50,20 @@ __Otro__
 > ./setup.sh
 
 
-## To Run:
+## Arranque con:
 > ./zVirus
 
-__Or__
+__O__
 
 > bash zVirus
 
 
-## To Update
+## Actualize:
 > ./update.sh
 
-__Or__
+__O__
 
 > bash update.sh
 
-### Note:
+### Nota:
 Version 1.4 will be posted this 2nd week of February 2021
