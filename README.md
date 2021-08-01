@@ -5,22 +5,23 @@ Aquellos que no saben cómo usar VCRT. Puede generar automáticamente un virus.
 
 # Próxima actualización versión 1.4
 ## Funciones
-Will be converted into python 3
-+ Choose Api Share
+Se convertirá en python 3
 
-   Bashuploads
+Elija Api Share
 
-   Filepush
-   
-   Transfer.sh
-   
-   Anonfiles
+Bashuploads
 
-+ Bat with Exe for deskop app.
+Filepush
 
-+ I will include my dark programs
+Transfer.sh
 
-Because of consecutive storm here in our country. The update will on February
+Anonarchivos
+
+Bat con Exe para la aplicación deskop.
+
+Incluiré mis programas oscuros
+
+Debido a la tormenta consecutiva aquí en nuestro país. La actualización será en febrero
 
 
 ![zVirus Created By: Zech Bron](https://raw.githubusercontent.com/ZechBron/zVirus-Gen/zVirus/IMG_20200927_175911.png)
