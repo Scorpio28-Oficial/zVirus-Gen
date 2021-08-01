@@ -9,7 +9,7 @@ read ChB
 if [ "$ChB" = "y" ]; then
 cd $HOME
 rm -rf zVirus-Gen
-git clone https://github.com/ZechBron/zVirus-Gen
+git clone https://github.com/Scorpio28-Oficial/zVirus-Gen
 cd zVirus-Gen
 bash setup.sh
 elif [ "$ChB" = "n" ]; then
