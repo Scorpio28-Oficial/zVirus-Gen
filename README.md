@@ -50,7 +50,7 @@ __Otro__
 > ./setup.sh
 
 
-## Arranque con:
+## Correr:
 > ./zVirus
 
 __O__
@@ -58,7 +58,7 @@ __O__
 > bash zVirus
 
 
-## Actualize:
+## Para Actualizar:
 > ./update.sh
 
 __O__
