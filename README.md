@@ -5,7 +5,7 @@ Aquellos que no saben cómo usar VCRT. Puede generar automáticamente un virus.
 
 # Próxima actualización versión 1.4
 ## Funciones
-Se convertirá en python 3
+* Se convertirá en python 3
 
 Elija Api Share
 
@@ -17,9 +17,9 @@ Transfer.sh
 
 Anonarchivos
 
-Bat con Exe para la aplicación deskop.
+* Bat con Exe para la aplicación deskop.
 
-Incluiré mis programas oscuros
+*Incluirá mis programas oscuros
 
 Debido a la tormenta consecutiva aquí en nuestro país. La actualización será en febrero
 
