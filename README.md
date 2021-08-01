@@ -66,6 +66,6 @@ __O__
 > bash update.sh
 
 ### Nota:
-Version 1.4 will be posted this 2nd week of February 2021
+La versión 1.4 se publicará esta segunda semana de febrero de 2021
 
 #### Autor: ZechBron
