@@ -43,7 +43,7 @@ __Otro__
 
 
 ## Instalación:
-> git clone https://github.com/ZechBron/zVirus-Gen
+> git clone https://github.com/Scorpio28-Oficial/zVirus-Gen
 
 > cd zVirus-Gen
 
